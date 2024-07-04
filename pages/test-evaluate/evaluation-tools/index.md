@@ -126,7 +126,7 @@ The videos have basic animation that illustrates what is said by an off-screen v
     <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
   </tr>
   <tr>
-    <td>For information on tools for evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
+    <td>TEST For information on tools for evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
     <td>Evaluation tools, W3C and Web Accessibility Initiative (WAI) logos.</td>
   </tr>
 </tbody></table>
